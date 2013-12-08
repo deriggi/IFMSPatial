@@ -15,7 +15,7 @@ The map tiles serve as the zoomable and pannable baselayer for the parcel locati
 
 ### JSON Data
 
-JSON files are called by the JavaScript from the [GisMapViewer] (https://github.com/deriggi/IFMSPatial/blob/master/IFMS%20Web/GisMapViewer.aspx) page
+JSON files are called by the JavaScript from the [GisMapViewer] (https://github.com/deriggi/IFMSPatial/blob/master/IFMS%20Web/GisMapViewer.aspx) page. They contain some of the data displayed on the popup in the map. The other portion of the popup content is retrieved from the data base using the ASP SqlDataSource tag and parameters stored in the URL
 
 [json files] (https://github.com/deriggi/IFMSPatial/tree/master/IFMS%20Web/GisMaps/json)
 
