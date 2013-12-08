@@ -13,5 +13,12 @@ The map tiles serve as the zoomable and pannable baselayer for the parcel locati
 [ maps tiles ] ( https://github.com/deriggi/IFMSPatial/tree/master/IFMS%20Web/GisMaps/mazar_bright)
 
 
+### JSON Data
+
+JSON files are called by the JavaScript from the [GisMapViewer] (https://github.com/deriggi/IFMSPatial/blob/master/IFMS%20Web/GisMapViewer.aspx) page
+
+[json files] (https://github.com/deriggi/IFMSPatial/tree/master/IFMS%20Web/GisMaps/json)
+
+
 
 
