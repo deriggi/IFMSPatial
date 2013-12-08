@@ -10,6 +10,8 @@ The folder structure matches that of the IFMS deployment so all the non asp file
 
 The map tiles serve as the zoomable and pannable baselayer for the parcel location. The map was built using TileMill and the data from the parcel and district layers for Mazar-e Sharif. They should be placed in the
 
+[ maps tiles ] ( https://github.com/deriggi/IFMSPatial/tree/master/IFMS%20Web/GisMaps/mazar_bright)
+
 
 
 
